@@ -79,3 +79,4 @@ and it runs ~400 ms instead of ~1 ms.
 - **AsyncStream source:** feed queries via `AsyncStream` and test with a controlled continuation.
 - **tvOS Focus:** keep focus logic out of the VM; test only state, verify focus in UI tests.
 - **`@Observable` variant (iOS 17+):** same tests work; swap `ObservableObject` for `@Observable`.
+# Testing-async-await
